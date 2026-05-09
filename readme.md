@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <strong></strong><br>
+  <strong>Melbourne Roleplay</strong><br>
   The unified operating platform for modern businesses.
 </p>
